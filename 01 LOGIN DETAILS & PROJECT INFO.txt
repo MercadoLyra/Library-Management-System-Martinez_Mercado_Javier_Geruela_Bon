@@ -1,0 +1,10 @@
+**Database Name: librarymanagementdb**
+
+**Credits to: Ronald Ngoda**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+
+**Login Details**
+
